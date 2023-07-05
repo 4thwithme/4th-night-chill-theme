@@ -2,6 +2,10 @@
 	"name": "4th",
 	"displayName": "4th-chill-night-theme",
 	"description": "Chill. Night.",
+	"repository": {
+		"url": "https://github.com/4thwithme/4th-night-chill-theme"
+	},
+	"publisher": "4thwithme",
 	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.67.0"
