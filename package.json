@@ -1,21 +1,21 @@
 {
-    "name": "4th",
-    "displayName": "4th-chill-night-theme",
-    "description": "Chill. Night.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.67.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Chill Night Theme. 4thwithme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Chill Night Theme. 4thwithme-color-theme.json"
-            }
-        ]
-    }
+	"name": "4th",
+	"displayName": "4th-chill-night-theme",
+	"description": "Chill. Night.",
+	"version": "0.0.2",
+	"engines": {
+		"vscode": "^1.67.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Chill Night Theme. 4thwithme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Chill Night Theme. 4thwithme-color-theme.json"
+			}
+		]
+	}
 }
